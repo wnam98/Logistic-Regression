@@ -1,3 +1,2 @@
 # Logistic-Regression
-
-Binary classifier for a microchip dataset. Weights for the sigmoid activation function were trained using Stochastic Gradient Descent and Regularized Stochastic Gradient Descent (to reduce overfitting). Plots show cross entropy loss vs number of GD iterations.
+Model was trained using the default semiconductor test/fail dataset provided by ML library keras. Regularized SGD algorithm utilized l2 weight decay for better testing accuracy. 
