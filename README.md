@@ -7,4 +7,4 @@ Logisitic Regression is used to model the probability of a feature belonging to 
 
 ![log_reg](https://raw.github.com/wnam98/Logistic-Regression/master/imgs/log_reg.png "log_reg")
 
-where Y denotes the set of classes {0,1} and x is the feature vector of attributes [x1, x2].
+where Y denotes the set of classes {0,1} and x is the feature vector of attributes [𝑥1, 𝑥2].
