@@ -6,3 +6,5 @@ Suppose you are the product manager of the factory and you have the test results
 Logisitic Regression is used to model the probability of a feature belonging to a certain class (in this case, pass/fail). Each object would be assigned a probability between 0 and 1 and a discriminant function would group the features to the appropriate classes. The basic model is displayed below:
 
 ![log_reg](https://raw.github.com/wnam98/Logistic-Regression/master/imgs/log_reg.png "log_reg")
+
+where Y denotes the set of classes {0,1} and x is the feature vector of attributes [x1, x2].
