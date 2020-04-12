@@ -11,5 +11,5 @@ where Y denotes the set of classes {0,1} and x is the feature vector of attribut
 
 ## Regularization
 
-While a higher dimensional phi would be a more accurate classifier, it is susceptible to overfitting and would yield low testing accuracy. Therefore, a regularized regression model would be required, along with a weight penalizer in the gradient descent algorithm. 
+While a higher dimensional phi is a more accurate classifier, it is susceptible to overfitting and would yield low testing accuracy. Therefore, a regularized regression model would be required, along with a weight penalizer in the gradient descent algorithm. 
 
