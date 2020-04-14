@@ -13,4 +13,4 @@ where Y denotes the set of classes {0,1} and x is the feature vector of attribut
 
 While a higher dimensional phi is a more accurate classifier, it is susceptible to overfitting and would yield low testing accuracy. Therefore, a regularized regression model would be required, along with a weight penalizer in the gradient descent algorithm. The regularization of choice is L2 ridge regression which adds a squared magnitude of coefficient as penalty term to the loss function. The model is displayed below:
 
-![log_reg](https://raw.github.com/wnam98/Logistic-Regression/master/imgs/log_reg.png "log_reg")
+![l2](https://raw.github.com/wnam98/Logistic-Regression/master/imgs/l2.PNG "l2")
