@@ -15,4 +15,6 @@ While a higher dimensional phi is a more accurate classifier, it is susceptible 
 
 ![l2](https://raw.github.com/wnam98/Logistic-Regression/master/imgs/l2.png "l2")
 
-Where lambda represents an arbitrary constant that specifies the intensity of random noise added to the weights.
+Where lambda represents an arbitrary constant that specifies the intensity of random noise added to the weights. Note the bias term is not regularized in the weight decay process. The gradient then simplifies to:
+
+
