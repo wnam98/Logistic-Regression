@@ -25,4 +25,4 @@ and our weight update can be expressed as:
 
 below is a graph of the training data cross-entropy loss vs number of iterations. Learning rate was set to 0.08 with pmax = 10,000.
 
-![cross_entropy](https://raw.github.com/wnam98/Logistic-Regression/master/imgs/cross_entropy.PNG "cross_entropy")
+![cross_entropy](https://raw.github.com/wnam98/Logistic-Regression/master/imgs/cross_entropy.PNG "cross_entropy" width="200" height="400")
