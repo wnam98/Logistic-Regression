@@ -21,5 +21,5 @@ Where lambda represents an arbitrary constant that specifies the intensity of ra
 
 and our weight update can be expressed as:
 
-![weight](https://raw.github.com/wnam98/Logistic-Regression/master/imgs/weight.PNG "weight")
+![weight](https://raw.github.com/wnam98/Logistic-Regression/master/imgs/weight.png "weight")
 
