@@ -27,3 +27,13 @@ and our weight update can be expressed as:
 <img src="https://raw.github.com/wnam98/Logistic-Regression/master/imgs/cross_entropy.PNG" width="411" height="277">
 </p>
 Figure 1: Graph of the training data cross-entropy loss vs number of iterations. Learning rate was set to 0.08 with pmax = 10,000.
+
+## Tools/Frameworks
+
+* [Jupyter Notebook](https://jupyter.org/) - The web environment used to write the python code
+* [Numpy](https://numpy.org/) - Third party framework for linear algebra/vector calculations
+* [Matplotlib](https://matplotlib.org/) - Python library for graphing and visualizations
+
+## Author
+
+* **Walter Nam** - *Initial work* - [profile](https://github.com/wnam98)
