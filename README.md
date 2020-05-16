@@ -20,9 +20,9 @@ Where lambda represents an arbitrary constant that specifies the intensity of ra
 ![gradient](https://raw.github.com/wnam98/Logistic-Regression/master/imgs/gradient.png "gradient")
 
 and our weight update can be expressed as:
-<p align="center">
+
 ![weight](https://raw.github.com/wnam98/Logistic-Regression/master/imgs/weight.png "weight")
-</p>
+
 <p align="center">
 <img src="https://raw.github.com/wnam98/Logistic-Regression/master/imgs/cross_entropy.PNG" width="411" height="277">
 </p>
