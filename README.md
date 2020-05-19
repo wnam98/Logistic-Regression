@@ -30,7 +30,7 @@ Figure 1: Graph of the training data cross-entropy loss vs number of iterations.
 
 ## Tools/Frameworks
 
-* [Jupyter Notebook](https://jupyter.org/) - The web environment used to write the python code
+* [Jupyter Notebook](https://jupyter.org/) - Web environment
 * [Numpy](https://numpy.org/) - Third party framework for linear algebra/vector calculations
 * [Matplotlib](https://matplotlib.org/) - Python library for graphing and visualizations
 
